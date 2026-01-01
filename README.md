@@ -41,17 +41,14 @@ I am a **BCA 3rd-year student** and an aspiring **Full Stack MERN Developer**. I
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-bhalla&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohit-bhalla&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-bhalla&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+![](https://github-readme-stats.vercel.app/api?username=Mohit-bhalla&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Mohit-bhalla&theme=github_dark_dimmed&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-bhalla&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Mohit-bhalla&icon=9&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=Mohit-bhalla&icon=9&color=0" alt="Visit Count" />
-  </a>
-</p>
